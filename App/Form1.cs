@@ -14,6 +14,8 @@ namespace App
     {
         public DatosPersonales()
         {
+
+            //El que lee esto lo amo
             InitializeComponent();
             
 
